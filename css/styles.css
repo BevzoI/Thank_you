@@ -1,0 +1,33 @@
+.container {
+  width: 1440px;
+  height: 1024;
+  display: block;
+  text-align: center;
+}
+
+.title {
+  font-family: "OpenSans", extra-bold;
+  font-size: 95px;
+  color: #6b68ec;
+}
+
+.text {
+  text-align: center;
+  font-family: "OpenSans", sans-serif;
+  font-size: 22px;
+  color: #484855;
+}
+
+.button {
+  color: #fff;
+  background-color: #1c1c25;
+  width: 363px;
+  height: 99px;
+  border-radius: 30px;
+  font-size: 18px;
+  margin-top: 48px;
+}
+
+.images {
+  margin-top: 98px;
+}
